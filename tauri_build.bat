@@ -1,0 +1,1 @@
+cargo tauri build --target i686-pc-windows-msvc
